@@ -58,3 +58,6 @@ autoreconf -i; ./configure; make; make check;
 
 * docs/UserManual.md: User Manual.
 
+# about cmake
+
+cmake make FindMKL.cmake is slightly modified from the one found in [cmake-recipes](https://github.com/eth-cscs/cmake-recipes)
